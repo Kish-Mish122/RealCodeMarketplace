@@ -8,5 +8,14 @@
     "download_url": "https://github.com/Kish-Mish122/RealCodeMarketplace/releases/download/realcodewhitetheme/light-theme.zip",
     "repo": "Kish-Mish122/RealCode-Plugins",
     "category": "theme"
-  }
+  },
+  {
+      "id": "your_plugin",
+      "name": "НАВЗАНИЕ ПЛАГИНА",
+      "description": "Тут будет ваше описание плагина, как работает, что нужно",
+      "version": "1.0.0",
+      "author": "NAME",
+      "download_url": "https://github.com/Kish-Mish122/RealCodeMarketplace/releases/download/realcodewhitetheme/example-plugin.zip",
+      "repo": "Kish-Mish122/RealCode-Plugins",
+      "category": "YOUR_CATEGORY"
 ]

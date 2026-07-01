@@ -1,8 +1,8 @@
 [
   {
     "id": "white_theme",
-    "name": "Белая тема RealCode",
-    "description": "Дополнительная белая тема",
+    "name": "Светлая тема",
+    "description": "Изменяет цветовую схему RealCode на светлую (белый фон, чёрный текст). Подходит для работы при ярком освещении или если вам нравиться белый цвет.",
     "version": "1.0.0",
     "author": "K1sh-M1sh",
     "download_url": "https://github.com/Kish-Mish122/RealCodeMarketplace/releases/download/realcodewhitetheme/light-theme.zip",
